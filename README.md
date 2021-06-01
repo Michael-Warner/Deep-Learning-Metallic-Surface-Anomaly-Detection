@@ -3,7 +3,7 @@
 ## Purpose:
 The purpose of this project was to train a Neural Network to recognize images, in this case, matalic surfaces with defects. 
 
-![image]("local/Fig.jpg")
+![image]("./Fig.jpg")
 
 ## Dataset:
 The dataset used can be found at [Kaggle](https://www.kaggle.com/fantacher/neu-metal-surface-defects-data). It was created by Northeastern University, and consists of 1,800 grayscale images of 6 different types of typical surface defects of the hot-rolled steel strip: rolled-in scale (RS), patches (Pa), crazing (Cr), pitted surface (PS), inclusion (In) and scratches (Sc). Each category had 300 samples to train the model on. 
