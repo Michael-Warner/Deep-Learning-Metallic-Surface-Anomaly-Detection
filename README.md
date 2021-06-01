@@ -18,4 +18,4 @@ For optimizer, a Adam Optimizer was used. It is a combination of the ‘gradient
 
 ## Conclusion:
 
-While this does have a high percentage of accuracy in highly critical industries, space industry for example, this accuracy should be increased. This can be done through a larger dataset.
+While this does have a high percentage of accuracy this may not be high enough for highly critical industries. Such as the space industry for example, this accuracy should be increased through a larger dataset.
